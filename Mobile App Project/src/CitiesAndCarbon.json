@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Dublin",
+    "gps": [53.35014, -6.266155],
+    "drivability": 1,
+    "trainability": 2,
+    "flights": ["London", "Paris", "Berlin", "Amsterdam", "Kyiv"]
+  },
+
+  {
+    "name": "Berlin",
+    "gps": [52.52, 13.405],
+    "drivability": 2,
+    "trainability": 1,
+    "flights": ["Paris", "Dublin", "London", "Moscow", "Amsterdam", "Kyiv"]
+  },
+
+  {
+    "name": "London",
+    "gps": [51.509865, -0.118092],
+    "drivability": 3,
+    "trainability": 1,
+    "flights": ["Dublin", "Paris", "Moscow", "Berlin", "Amsterdam", "Kyiv"]
+  },
+
+  {
+    "name": "Moscow",
+    "gps": [55.7558, 37.6173],
+    "drivability": 2,
+    "trainability": 1,
+    "flights": ["Paris", "London", "Berlin", "Amsterdam", "Kyiv"]
+  },
+
+  {
+    "name": "Paris",
+    "gps": [48.864716, 2.349014],
+    "drivability": 2,
+    "trainability": 1,
+    "flights": ["London", "Moscow", "Berlin", "Amsterdam", "Kyiv", "Dublin"]
+  },
+
+  {
+    "name": "Amsterdam",
+    "gps": [52.377956, 4.89707],
+    "drivability": 2,
+    "trainability": 1,
+    "flights": ["London", "Moscow", "Berlin", "Paris", "Dublin"]
+  },
+
+  {
+    "name": "Kyiv",
+    "gps": [50.450001, 30.523333],
+    "drivability": 2,
+    "trainability": 1,
+    "flights": ["London", "Moscow", "Berlin", "Paris", "Dublin"]
+  }
+]
